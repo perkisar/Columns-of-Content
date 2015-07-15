@@ -1,0 +1,71 @@
+﻿
+body {
+    width:100%;
+    height:100%;
+    background-color:#333333;
+
+}
+
+html {
+    width:100%;
+    height:100%;
+}
+
+#main {
+    min-height:370px;
+    background:url('/img/Wormhole-Space-940x350.jpg');
+    background-position-x:center;
+    background-size:1000px;
+    width: 1000px;
+    margin: 0 auto;
+    background-repeat:no-repeat;
+    
+}
+  
+#content {
+    width:1000px;
+    background-color:#fff;
+    margin: 0 auto;
+    height:120%;
+
+}
+
+section h1 {
+    padding-bottom:10px;
+    margin:0;
+    font-size:18px;
+}
+
+#left {
+    width:23%;
+    float:left;
+    padding:25px;
+    text-align:justify;
+    font-size:12px;
+}
+
+#middle {
+    width:68%;
+    float:left;
+    text-align:justify;
+    padding:25px 0 25px 0;
+    font-size:12px;
+        line-height:20px;
+}
+
+#left img {
+    max-width:240px;
+}
+
+.quote {
+    font-size:18px;
+    font-weight:400;
+    text-align:center;
+}
+
+.caption {
+    font-style:italic;
+    font-size:13px;
+    text-align:center;
+    margin:0;
+}
